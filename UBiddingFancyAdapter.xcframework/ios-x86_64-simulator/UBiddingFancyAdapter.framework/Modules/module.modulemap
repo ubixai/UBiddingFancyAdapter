@@ -1,0 +1,6 @@
+framework module UBiddingFancyAdapter {
+  umbrella header "UBiddingFancyAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
