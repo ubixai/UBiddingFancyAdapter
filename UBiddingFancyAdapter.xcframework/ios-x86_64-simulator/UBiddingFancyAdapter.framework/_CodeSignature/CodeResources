@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3afz2IvSRAGoz0I2I57uT5+Ya2o=
+		FsadYU59FDHV9lPtkRlUDe1TCH4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/UBiddingFancyAdapter-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eZCJqKgqbA9OLKjsS0fXOfmvpeI=
-			</data>
 			<key>hash2</key>
 			<data>
 			BsWVzT/eG5WNmMai+Azs4FsCQDMsrx6B72bDxrm97VU=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/UBiddingFancyAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0Z9rt292bktLkwFdUKrUjtEXhuU=
-			</data>
 			<key>hash2</key>
 			<data>
 			pj2I+yP/+4+t76IlTt3si1q3ClRL9Rmx9eMD+eNzd8Q=
@@ -47,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vDxj0sW7Ae3wrx4OjKzmeeIc/g4=
-			</data>
 			<key>hash2</key>
 			<data>
 			bamPp8dT5lIjBLmmsmv/3cHCrrWi4Qg8quYV6oMxkek=
