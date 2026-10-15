@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiddingFancyAdapter'
-  s.version          = '2.3.17.0'
+  s.version          = '3.0.23.0'
   s.summary          = 'UBiddingFancyAdapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   s.author           = { 'zhugq' => 'guoqiang.zhu@ubixai.com' }
@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.vendored_frameworks = 'UBiddingFancyAdapter.xcframework'
 
-  s.dependency 'PTGAdFramework', '2.3.17'
+  s.dependency 'PTGAdFramework', '3.0.23'
   s.dependency 'UBiddingAdSDK'
 end
